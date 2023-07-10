@@ -1,0 +1,14 @@
+processed_data/*
+processed_data.zip
+cache/*
+output/*
+data/*
+predictions/*
+__pycache__
+analysis/.ipynb_checkpoints
+analysis
+
+*/*cache*/*
+*/*output*/*
+bert-cache/
+.DS_Store
